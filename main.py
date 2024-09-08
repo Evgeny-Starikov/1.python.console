@@ -13,4 +13,3 @@ width = input('Введите ширину прямоугольника: ')
 perimetr = (int(length) + int(width)) * 2
 square = int(length) * int(width)
 print('Площадь прямоугольника равна', square, 'Периметр прямоугольника равен', perimetr)
-
